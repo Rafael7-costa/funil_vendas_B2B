@@ -108,4 +108,4 @@ A matriz vendedor × produto mostra que as quedas de conversão mais acentuadas 
 
 ---
 
-*Projeto desenvolvido como parte do portfólio. Estrutura completa do dashboard (4 páginas) disponível em [[link do arquivo .pbix ou print do dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGQ2Y2U0NjYtNDVmYy00ZDE1LThiYmYtMGExNjQ5ZGNlMTUzIiwidCI6ImE0NTMyMzQyLWRjNjktNDhjMC1iODJhLTRhMWQ1ZDg2NGU2YiJ9)].*
+*Projeto desenvolvido como parte do portfólio. Estrutura completa do dashboard (4 páginas) disponível em [[Visualizar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGQ2Y2U0NjYtNDVmYy00ZDE1LThiYmYtMGExNjQ5ZGNlMTUzIiwidCI6ImE0NTMyMzQyLWRjNjktNDhjMC1iODJhLTRhMWQ1ZDg2NGU2YiJ9)].*
