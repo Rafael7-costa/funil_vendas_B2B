@@ -96,6 +96,8 @@ A matriz vendedor × produto mostra que as quedas de conversão mais acentuadas 
 
 > "Adicionalmente, o padrão de 'efeito de fim de trimestre' identificado sugere uma segunda alavanca de ganho: antecipar o esforço de fechamento para o meio do trimestre — em vez de concentrá-lo apenas no mês final — tem potencial de reduzir o volume de negócios perdidos hoje concentrado no primeiro mês de cada ciclo seguinte."
 
+*Estrutura completa do dashboard (4 páginas) disponível em [[Visualizar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGQ2Y2U0NjYtNDVmYy00ZDE1LThiYmYtMGExNjQ5ZGNlMTUzIiwidCI6ImE0NTMyMzQyLWRjNjktNDhjMC1iODJhLTRhMWQ1ZDg2NGU2YiJ9)].*
+
 ---
 
 ## 7. Próximos Passos
@@ -107,5 +109,3 @@ A matriz vendedor × produto mostra que as quedas de conversão mais acentuadas 
 - Testar um modelo preditivo simples (regressão logística) de propensão a fechar negócio, usando as variáveis já mapeadas neste projeto (ciclo, vendedor, produto, região, mês do trimestre) como features — evolução natural da análise diagnóstica para a preditiva.
 
 ---
-
-*Projeto desenvolvido como parte do portfólio. Estrutura completa do dashboard (4 páginas) disponível em [[Visualizar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGQ2Y2U0NjYtNDVmYy00ZDE1LThiYmYtMGExNjQ5ZGNlMTUzIiwidCI6ImE0NTMyMzQyLWRjNjktNDhjMC1iODJhLTRhMWQ1ZDg2NGU2YiJ9)].*
